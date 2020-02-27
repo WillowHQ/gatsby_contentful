@@ -3,8 +3,8 @@ require('dotenv').config({
 })
 
 const contentfulConfig = {
-  spaceId: process.env.CONTENTFUL_SPACE_ID,
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+  spaceId: 'qss2toq92qsr',
+  accessToken:'cSa56aFE5yx-O819-5scDjJTltOgw_wUwOPk6uLi9Go',
   host: process.env.CONTENTFUL_HOST
 }
 
