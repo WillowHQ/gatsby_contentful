@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #242424;
+  --quantum-sky: #5034ff;
+  --quantum-carbon: #222121;
+  --quantum-fire-emoji: #f44f44;
+  --quantum-sky-dark: #735CFF;
+  --quantum-sky-light: #ABA8FF;
+  --quantum-carbon-dark: #272727;
+  font-family: "Ibm Plex Sans"
+  
+
+}
+div {
+  background-color: var(--main-bg-color);
+  
+}
+p {
+  font-family: "IBM Plex Sans"
+}
