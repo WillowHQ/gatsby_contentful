@@ -3,7 +3,7 @@ import theme from './theme.css'
 import "typeface-ibm-plex-sans"
 
 
-export const Theme = ({children}) => 
+export default Theme = ({children}) => 
     <>{children}</>
 
 
