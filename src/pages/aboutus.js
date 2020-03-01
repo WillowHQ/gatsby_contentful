@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Theme} from '../components/Theme'
+import Theme from '../components/theme'
 
 class AboutUs extends React.Component {
   render() {
