@@ -1,6 +1,6 @@
 import React from 'react';
 import get from 'lodash/get';
-import Theme from '../components/Theme.js'
+import Theme from '../components/themething.js'
 
 class Page extends React.Component {
   render() {
